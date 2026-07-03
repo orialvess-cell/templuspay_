@@ -1,0 +1,6 @@
+{
+  "name": "Templus Pay",
+  "description": "Plataforma digital de antecipação de recebíveis, fomento mercantil e soluções de fluxo de caixa para empresas com paleta tecnológica em Azul e Dourado.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
